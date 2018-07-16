@@ -140,3 +140,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a165a9d52de2ef46bd6338217aabedc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  flame: {fileID: 1422726686694780, guid: 336d3989dd1cba649b15a759b117b835, type: 2}
